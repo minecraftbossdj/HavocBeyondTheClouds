@@ -1,0 +1,13 @@
+name = "CCX"
+filename = "ccx-forge-6.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gnjmOz1y/versions/Bn94lJQk/ccx-forge-6.1.0.jar"
+hash-format = "sha512"
+hash = "681c33e8f10fe188c2cbb6aca8d7ed26471e99080bbe77e21f51bbfeb621d74c206d5e0ca997afbc9b6eb4d0a233e83b687d7d196f42d6088f3a66e9b1a941e9"
+
+[update]
+[update.modrinth]
+mod-id = "gnjmOz1y"
+version = "Bn94lJQk"
