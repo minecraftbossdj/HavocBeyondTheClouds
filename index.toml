@@ -339,11 +339,6 @@ hash = "2592812a03473a3f9ed7749b48c23f64ed7f7f37b2ac6a4eb16c791a19a9b20e"
 metafile = true
 
 [[files]]
-file = "mods/gravityvs.pw.toml"
-hash = "62074156a91f9d2f1ade7388bd930b38044309aee477eb321e1add4438a0e047"
-metafile = true
-
-[[files]]
 file = "mods/grieflogger.pw.toml"
 hash = "6406896463cb7c34d86cbe583b6fb2852c2306129d9770e403d817ac451a81a4"
 metafile = true
