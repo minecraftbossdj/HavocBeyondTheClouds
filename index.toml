@@ -10,20 +10,14 @@ hash = "d9c96ebb61db25f753a7bd2858ef5c874cb236d7e744f749ce8f713f6d193f92"
 metafile = true
 
 [[files]]
-file = "mods/AdvancedPeripherals-1.20.1-0.7.46r.jar"
-hash = "e78152a8acc771121772750360e6a89f14414375a5ca7df7da168b1c1f40064b"
+file = "mods/advancedperipherals.pw.toml"
+hash = "22023046d65c5c9c0cee0c575c44129414c8a702b06f2f0129ac918a4180495e"
+metafile = true
 
 [[files]]
-file = "mods/CarryOnVSCompat-Forge-1.20.1-1.0.0.jar"
-hash = "de1bba80a237490d8a9347281404c2d2cf9a35dc2ad5f0a79570fa76643a290f"
-
-[[files]]
-file = "mods/Clumps-forge-1.20.1-12.0.0.4.jar"
-hash = "8af01712c0dc32cebaff31795ca6d223fddff2ea9b1f5efbd9c3a586a0dacbc0"
-
-[[files]]
-file = "mods/aetherial-islands-2.0.2.jar"
-hash = "6c1bc752b632f233b28cfd5137da2e6fb1d56fb308c8f760bc321b37038bc26f"
+file = "mods/aetherial-islands.pw.toml"
+hash = "07735cfeaea8f9d4532a6ca653fa3b4fc83ed2d7f16fff96ac2741a8c37f12a8"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -56,13 +50,34 @@ hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
 metafile = true
 
 [[files]]
+file = "mods/carryon-vs-compat.pw.toml"
+hash = "b7d909568558d94f6536a8387da99cd714b210aefbd0d68568622f64b6881695"
+metafile = true
+
+[[files]]
 file = "mods/catalogue.pw.toml"
 hash = "de0ac8f389108cd377072596d04cb0af788199bc7755347311fc2d32e8532bfc"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked-1.20.1-forge-1.116.2.jar"
-hash = "d778067958d7999c4140a70a477fbab0faa882bb6239fc396c79276d485ce772"
+file = "mods/cc-androids.pw.toml"
+hash = "9cad81dcc829d75e7b874c5f261d388cc84a8f57c2de74fd1443f59256873d51"
+metafile = true
+
+[[files]]
+file = "mods/cc-lectern-hub.pw.toml"
+hash = "322f994401147283d966fb810d0942ee24c5818e3f86d9ef25540ba02620e5bb"
+metafile = true
+
+[[files]]
+file = "mods/cc-link.pw.toml"
+hash = "d9ee2811355edc39ec1cedb7b1967f1aeb83670e0267161ddffecd948eb3124c"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "94615e505b64b850d3df7b50c292407a3b2f327ed1989c4e7d2907bb79785cde"
+metafile = true
 
 [[files]]
 file = "mods/cc-vs.pw.toml"
@@ -70,21 +85,14 @@ hash = "590e968ae8f930b0b525266c10985b9282921d1770c4662759889813d0d859ea"
 metafile = true
 
 [[files]]
-file = "mods/cc_androids-forge-1.3.0.jar"
-hash = "186999254cb5fbd18eaa8fff910d88055f0b54fbe7c99d888b23be6af5c2fdaf"
-
-[[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "2ffdb2a62d0d79612064acf878aa7075a18030d9b1315099f2b9d6b89029951b"
 metafile = true
 
 [[files]]
-file = "mods/cclink-6.0.2-beta1-1.20.1.jar"
-hash = "aec3b36145a46bac7013ea39f4cd76c8187e82ccfc3a7e6671b845c4181795f4"
-
-[[files]]
-file = "mods/ccx-forge-6.1.0.jar"
-hash = "2da537efb1929478dc37a78edc4ccf9c11ebf235456b10e870fbf970e79c85a8"
+file = "mods/ccx.pw.toml"
+hash = "f59b5f699c4b092e85fccb2b13b3001ccefc7fa9799cc87d8d89a997a6eaf48f"
+metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
@@ -100,10 +108,6 @@ metafile = true
 file = "mods/classic-peripherals.pw.toml"
 hash = "ebd201dbb16c75cf567bc8318ad53cfd7236a14aa1238d38e9799440331ac85e"
 metafile = true
-
-[[files]]
-file = "mods/clockwork-0.5.4.6.jar"
-hash = "b23ba45297d142cc9a412e730e64d3e67a34fc3c6b14c728020760d5cd349c4b"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
@@ -136,10 +140,6 @@ hash = "4101243ecfad34970b81cf6c99f458b67fe848d11870112bc9bab3b16af985eb"
 metafile = true
 
 [[files]]
-file = "mods/corpse-forge-1.20.1-1.0.23.jar"
-hash = "9f639204588512abe767bb5c2ff97d41f50352af916de939ac8029c95d57ae7b"
-
-[[files]]
 file = "mods/corpse-x-cosmetic-armor-reworked-compat.pw.toml"
 hash = "d9b35e74545f255a4515a3a815b32be3fe0d10095da07630709ba9f81c6acb8e"
 metafile = true
@@ -147,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
 hash = "b82ff450c67ce4ccb0b6960fe020971553513a7e8a03a8b818d4dcf7d43792db"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "2fba2317a375669ccb1376525d4d4e0d1903cc5dc44fc70dce1d0e3dbb6aacb1"
 metafile = true
 
 [[files]]
@@ -165,8 +170,18 @@ hash = "967c38265800a8b2353debf37ab919204a1f89e4a57e2e603b7a7de1d68c8956"
 metafile = true
 
 [[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "5021b4a0f5474201447787ebe98a5d6cf3d18b10e06fe64f726608e4739e8a9f"
+metafile = true
+
+[[files]]
 file = "mods/create-compatible-storage.pw.toml"
 hash = "1656364454d2e9c9cd65bc0a729b30e67c23fd26566ff4135439a4196bc71f06"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+hash = "d08820071cff0e5c0ac5f18260384fb0f9850651b97d44e0c3f44c8611cf538a"
 metafile = true
 
 [[files]]
@@ -231,12 +246,8 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
+hash = "80cee92d51c01dfab7dbb3440e64d50ce7db3cee71466662eba6766869d5f8af"
 metafile = true
-
-[[files]]
-file = "mods/create_connected-1.1.13-mc1.20.1-all.jar"
-hash = "dadc604fdf702265fcc8be0b7f6edbe133d56b6e71af61d47da999b2a045b247"
 
 [[files]]
 file = "mods/createaddition.pw.toml"
@@ -394,10 +405,6 @@ hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
 metafile = true
 
 [[files]]
-file = "mods/lectern_hub-1.0.0-1.115.0-1.20.1.jar"
-hash = "6a3dba16c593644bf2a454d193bb6d6f6bcb2e17ae5d26c12aab28509475dd3b"
-
-[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "1d623ba29fcb52d5db733af383a13273792ac3dc1ac7a8f9e3f58a17ae1bc2c7"
 metafile = true
@@ -448,8 +455,9 @@ hash = "38a5b4cba37b2b316b52e299e67f78a31279ee6044095a2b059fc9f5b3a93779"
 metafile = true
 
 [[files]]
-file = "mods/no-void-structures-2.0.1.jar"
-hash = "7f5aa433075e618795e41a70990f801c49bff2877821ba1b2b8c5e7916377ce5"
+file = "mods/no-void-structures.pw.toml"
+hash = "adec3006a58ff7fb7c7677783aa63fb0e9c582bc7f66c77592b566f460f95492"
+metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
@@ -474,10 +482,6 @@ metafile = true
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "bcf6e9de4c6751aa0bfc95ff80c7596dc5ca80f0d50d1a3d0a69754e2f140067"
 metafile = true
-
-[[files]]
-file = "mods/peripheralworks-forge-1.20.1-1.7.15.jar"
-hash = "6c0a85203d3dfa847bdf08e5b75ec86f89821df648c308052c627aa856f8037b"
 
 [[files]]
 file = "mods/petrolpark.pw.toml"
@@ -540,6 +544,11 @@ hash = "c2a2d73eaaa5c31938a1027fa55e7c29193742c1c53e89f483653a2cdfa982ec"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "2693e3b2afc35f5edac9bc961a3cb1ccfa60bf32c69f2ddcc4860e7fe8799096"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "59b6fdfc212eb4665e5e5b15c38a0f36272432694eb8b681f7d77ec61f9982cb"
 metafile = true
@@ -555,8 +564,9 @@ hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
 metafile = true
 
 [[files]]
-file = "mods/telluriumforge-1.4.0-1.20.1-forge.jar"
-hash = "12c0b0a481df4a05f0cb86c99d8b689d1a80b23b3da605c6f8b76fd343e1171c"
+file = "mods/telluriumforge.pw.toml"
+hash = "a761c961202be4f50372fc92e7117421673a04479ef70026461e52dbcaf833a5"
+metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
@@ -574,12 +584,18 @@ hash = "9800f7fca0f61002209c07155c166907a830f22aa4ae3ceba407fbc3277eb74e"
 metafile = true
 
 [[files]]
-file = "mods/turtlechargingstation-1.7.1-1.20.1-forge.jar"
-hash = "c3d5c44f305b1f31e00e893d3a1046eb396f7904391fcfe70a7a50ac76536e60"
+file = "mods/turtle-charging-station.pw.toml"
+hash = "108bfe3ba1622d01d727f6cd76a70ea75d65f1b55c9eca258c44f6c85012f374"
+metafile = true
 
 [[files]]
 file = "mods/turtlematic.pw.toml"
 hash = "6e8f1e48432a6db0b5fb0352bd7fcb82e162758dbe1a9a0fd1c70efda5d2fb2b"
+metafile = true
+
+[[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "ad4ac2f554e533d49711ae9b8c0003f8071e030d4b5610f20b241a773fe02a0c"
 metafile = true
 
 [[files]]
@@ -598,17 +614,14 @@ hash = "ec57451fea9e24fe8918e6ff7c4f2bb901c33a1833677a55a74764c2ba574ad2"
 metafile = true
 
 [[files]]
-file = "mods/voicechat-forge-1.20.1-2.6.12.jar"
-hash = "02721705e295af1b54a5cbb8cbc7a44681906d6efb0a200be68bf972e5c9bb3c"
-
-[[files]]
 file = "mods/vs-hose-connectors.pw.toml"
 hash = "0bf2d96056784bbba702ec3e6d732b4947063bf20ba8e7f32555c11bf02355b5"
 metafile = true
 
 [[files]]
-file = "mods/vs_logistics-1.1.0.jar"
-hash = "05c6af1b859a59abd8cfdb69c88ecb9a0ae8e644ea3bade036b910f793704fda"
+file = "mods/vs-logistics.pw.toml"
+hash = "e1bb36ab4cedefa6ba2012b1dd6dcc671e5aef96bb320e6e24561a2222082932"
+metafile = true
 
 [[files]]
 file = "mods/vstuff.pw.toml"

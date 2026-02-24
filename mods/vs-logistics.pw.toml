@@ -1,0 +1,13 @@
+name = "VS: Logistics"
+filename = "vs_logistics-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VYRICKQ0/versions/YQeOEE72/vs_logistics-1.1.0.jar"
+hash-format = "sha512"
+hash = "effe76882ee3d2974526171022864d42ff3674ef24834c795884ac9169a1bd2a8508b63e5b7b2ee456b92bfd6f11b6ecf6832962402c9e1c1786dd513450d8ca"
+
+[update]
+[update.modrinth]
+mod-id = "VYRICKQ0"
+version = "YQeOEE72"
