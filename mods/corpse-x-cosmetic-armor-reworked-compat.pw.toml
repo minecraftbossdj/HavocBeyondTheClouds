@@ -3,8 +3,8 @@ filename = "cosmeticcorpsecompat-1.19.x-1.20.x-Forge-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "68ea28d819d01251c38a9e36a4ce7487cf7b8723"
+hash-format = "sha256"
+hash = "21bdce92f3fecbf6c07efd70b3ff81f8d74eb02b14030b9a405b18c7da34d5cd"
 mode = "metadata:curseforge"
 
 [update]

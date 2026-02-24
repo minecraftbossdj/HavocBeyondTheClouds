@@ -3,8 +3,8 @@ filename = "vsHoseConnectors-0.0.9-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "334b23f55ab51e50d037837c0deb8f69afce2ad0"
+hash-format = "sha256"
+hash = "1fe3037b3e01917986a4f63d4bf31ef7c04eaa53fe27c1be842a54d4cdabe624"
 mode = "metadata:curseforge"
 
 [update]

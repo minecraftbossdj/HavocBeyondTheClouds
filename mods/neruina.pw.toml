@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1s5x833P/versions/OPBEMVaD/neruina-3.2.1%2B1.20.1-forge.jar"
-hash-format = "sha512"
-hash = "07635f6ad6f556f9e4b1bde9352c9b26eb45296a93863cd5d5a3ab8cd4bd0eb6ff7dcdc55a3d2315941d4e10766e6516ecad5ea1a8bad904357309ad0053a65c"
+hash-format = "sha256"
+hash = "a7f629f9c7e8a4e55c2f2375468776518b18132050541c6df6ae9b296b0201ee"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/H6bJ8Ju4/versions/aHqvR8LC/create_tweaked_controllers-1.20.1-1.2.5.jar"
-hash-format = "sha512"
-hash = "aa57d77aacdcc15fc586f6a3a1be30340a1ac1017c03e9fb7b698cf39222ed8e51cb32c0e51533a1d1638bce463850ff05b81a49a44d3254a646aba906af2a6e"
+hash-format = "sha256"
+hash = "c8a7468d9aff8f9101f275188a6f239fff49c2e94142fb33aa22e0df3ecf1297"
 
 [update]
 [update.modrinth]

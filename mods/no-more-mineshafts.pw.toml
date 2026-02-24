@@ -3,8 +3,8 @@ filename = "NoMoreVanillaMineshafts - 0.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f316563a7ce26c4614b5c2783a1b0ad8a77aa15b"
+hash-format = "sha256"
+hash = "ecde1e229504c22d451d447bb0882e8d47e7a77594d26c1b4ae74ee333327c68"
 mode = "metadata:curseforge"
 
 [update]

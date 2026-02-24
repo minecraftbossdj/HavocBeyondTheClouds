@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/AN0CZD9P/versions/hCQO8AvZ/petrolsparts-1.20.1-1.2.3-all.jar"
-hash-format = "sha512"
-hash = "1688cfe270a21a111d4a2faf93bdb6ffeb2a86faba34a6569f329e96af8ca4f937a954f45b7a57907602fc44ea4793b2af6e3e482d36f4ce435d88c4809db57b"
+hash-format = "sha256"
+hash = "be37ff8112951cc24463a3fc4c55dee0231b52c7b8583c571b005d1e02045f0a"
 
 [update]
 [update.modrinth]

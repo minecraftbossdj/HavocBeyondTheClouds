@@ -3,8 +3,8 @@ filename = "ritchiesprojectilelib-2.1.1-mc.1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3e13ad86b2cc4107b8a18eec1d980ed19cdc37aa"
+hash-format = "sha256"
+hash = "5531ec454792f98993fa29d55f8810444ba3e9ef8f04331c5811b84ec8d0c3dc"
 mode = "metadata:curseforge"
 
 [update]

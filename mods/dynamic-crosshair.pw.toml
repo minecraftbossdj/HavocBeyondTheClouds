@@ -3,8 +3,8 @@ filename = "dynamiccrosshair-9.10+1.20.1-forge.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "9ec4f7fefa33d1be77883a080f69b2bc9c521ea4"
+hash-format = "sha256"
+hash = "b15287651f9360f9b0180600b8e9a168b1b7c091de5073726087fd8b483c90bd"
 mode = "metadata:curseforge"
 
 [update]
@@ -14,5 +14,5 @@ project-id = 623800
 
 [option]
 optional = true
-default = true
 description = "Crosshair changes depending on what you're doing, not for everyone."
+default = true

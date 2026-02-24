@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/3qAYkBMB/versions/Sypm3Zgg/polytone-1.20-3.5.22.jar"
-hash-format = "sha512"
-hash = "78cdf91b7b90c8e850f2964b458c3acde155a320b3eb2c51d70cf88d499d9afb683aa5da2683b1d40b0fd05e3b5e0fa75a830e47f8d253c1af97ebed98124b08"
+hash-format = "sha256"
+hash = "ce978b760d184da2f2bddb6f446e215432fb0ce5e084df981642a1ff39247e7c"
 
 [update]
 [update.modrinth]
@@ -14,5 +14,4 @@ version = "Sypm3Zgg"
 
 [option]
 optional = true
-default = false
 description = "Lots of optifine resource pack features."

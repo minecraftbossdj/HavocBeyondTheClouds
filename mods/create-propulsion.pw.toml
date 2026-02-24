@@ -3,8 +3,8 @@ filename = "createpropulsion-0.3.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ba3978663ed6cde730305613a04cb5fb9582950d"
+hash-format = "sha256"
+hash = "3474c7e186a95b2acba562a08824aafcb98f1dcc5d6381061f0387c808fe27aa"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "digitalitems-forge-1.20.1-0.5.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "173c5304ce8834505e123ab846130a4cfa98c2a4"
+hash-format = "sha256"
+hash = "d5d2e531adc80032dce169269e997a38c26c433aaceb021a90533753b5c3ffc1"
 mode = "metadata:curseforge"
 
 [update]

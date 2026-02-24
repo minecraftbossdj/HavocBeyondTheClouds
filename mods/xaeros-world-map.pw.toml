@@ -3,8 +3,8 @@ filename = "xaeroworldmap-forge-1.20.1-1.40.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0a5d068b6aa72c69b79e7ab7da47ef64f96e5b7c"
+hash-format = "sha256"
+hash = "d41ea1366e36f79f1b38efb44920fa9354a929eee070c493bda60b0c5cc2b16a"
 mode = "metadata:curseforge"
 
 [update]

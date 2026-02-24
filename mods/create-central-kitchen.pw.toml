@@ -3,8 +3,8 @@ filename = "create_central_kitchen-1.20.1-for-create-6.0.6-1.4.3b.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4e1048ce2b5453d657b42ea5dcec5ada1842b0ea"
+hash-format = "sha256"
+hash = "1ed474df7dcd5a3847953a232acb981b49008273cc721737f3db4cc41d24cb89"
 mode = "metadata:curseforge"
 
 [update]

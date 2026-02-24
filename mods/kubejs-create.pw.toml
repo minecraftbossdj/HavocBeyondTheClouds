@@ -3,8 +3,8 @@ filename = "kubejs-create-forge-2001.3.0-build.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cbeb6643d1cea979a7e01c87cfb08b9210a1c393"
+hash-format = "sha256"
+hash = "7ed3229677a98159badd9250f8e9555b5e8f7f7b55981f1a99b11e30574bafd4"
 mode = "metadata:curseforge"
 
 [update]

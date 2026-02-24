@@ -3,8 +3,8 @@ filename = "classicperipherals-0.3.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "582b3c57877be90e3b0d6b74835d7b98822ff149"
+hash-format = "sha256"
+hash = "8c4286a0f433f69b3927cfce3f880191040140088e06c5fcec61ac4b0bc2a858"
 mode = "metadata:curseforge"
 
 [update]

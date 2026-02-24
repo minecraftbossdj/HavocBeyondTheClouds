@@ -3,8 +3,8 @@ filename = "create_compatible_storage-2.9.0-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6fda3f0df439e71e3973295c62e547c4a419c778"
+hash-format = "sha256"
+hash = "29e6d41dbfc2b801f5fe1e7808175bf198bf276a3ede1369033310806fa0bd08"
 mode = "metadata:curseforge"
 
 [update]

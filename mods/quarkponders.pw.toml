@@ -3,8 +3,8 @@ filename = "QuarkPonders-1.3_Forge-1.20.1.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "7f86dc3b2a7547776213d15e4310efef7a77b382"
+hash-format = "sha256"
+hash = "7e7a3a04099271e1970f1cbf1afde4c254152b2a91587c8d142db838b48d85c9"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "create-new-age-1.1.7f+forge-mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5731a275007fc8236414829358e4a100783927cb"
+hash-format = "sha256"
+hash = "8b8b14159ef1a696bc86f60ae474ed73ef0daba906e2a5aa9cea94d44ebafd38"
 mode = "metadata:curseforge"
 
 [update]

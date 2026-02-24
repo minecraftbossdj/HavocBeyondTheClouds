@@ -3,8 +3,8 @@ filename = "create_jetpack-forge-4.4.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "066572eef380c5d3d34138110cf0c70c55c487bd"
+hash-format = "sha256"
+hash = "6a746d1278696924eec33152a391c9c073b627c4a224e9b45d99cb42c5206337"
 mode = "metadata:curseforge"
 
 [update]

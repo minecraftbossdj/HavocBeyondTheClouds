@@ -3,8 +3,8 @@ filename = "VMod-Forge-1.20.1-1.9.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7bed7678675cbdfad672b60d84c2f2fa30c40a82"
+hash-format = "sha256"
+hash = "a23cb223583f0a5390c9a891c5ade30a71953bf3595add52305a3c3ddb68f442"
 mode = "metadata:curseforge"
 
 [update]

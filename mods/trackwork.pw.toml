@@ -3,8 +3,8 @@ filename = "trackwork-1.20.1-1.2.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "458e00fcd2afb2fabf634edc118f8d651c8857f5"
+hash-format = "sha256"
+hash = "4025cf76f1dd0152edb3954676ac9997ace75b744cd325baee9eba77bc1a944d"
 mode = "metadata:curseforge"
 
 [update]

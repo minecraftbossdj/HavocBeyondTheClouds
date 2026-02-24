@@ -3,8 +3,8 @@ filename = "Zeta-1.0-31.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8c4a8ef0444b53ff408d5b89126285031081d92f"
+hash-format = "sha256"
+hash = "cd1786902a79434f8fd762d741019d9c8a79725fef7e30a89c153c934e1e6a9e"
 mode = "metadata:curseforge"
 
 [update]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/rk8qfZ88/entity_texture_features_1.20.1-forge-7.0.9.jar"
-hash-format = "sha512"
-hash = "53cfa26a6759e4680d863666cb6ce0d9b1be4aebedceff4d45369a5b8705e5da6739cd13e9bf589d36b909f4f620c05d26d41ded4a76303a18ee28dad6e0a4ec"
+hash-format = "sha256"
+hash = "b30b6a2b9d761a57a737624434bd096fa60c39c2b88bdd5c2eb18777bd893d06"
 
 [update]
 [update.modrinth]
@@ -14,5 +14,4 @@ version = "rk8qfZ88"
 
 [option]
 optional = true
-default = false
 description = "Entity texture features, from optifine basically"

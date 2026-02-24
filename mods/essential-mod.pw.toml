@@ -3,8 +3,8 @@ filename = "Essential_1-3-10-5_forge_1-20-1.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "a1f7646500ea12db41fb6a82977bf6a6263d33f9"
+hash-format = "sha256"
+hash = "63500cefb2cdb5ae0fd9b89bdff568d82a5693b601b7ab1de5e528a077ef2b36"
 mode = "metadata:curseforge"
 
 [update]
@@ -14,5 +14,4 @@ project-id = 546670
 
 [option]
 optional = true
-default = false
 description = "Bloat, if you must use this mod, please enable not so essential."

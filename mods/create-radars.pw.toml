@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/BLu2Yqfq/versions/4coaDX71/create_radar-0.4%2Bmc1.20.1.jar"
-hash-format = "sha512"
-hash = "4af36fc5ccbecab9bca3750390c08ad52498aa5d7a2352b63ee6ebf03c379eab31df065e6885951affb05e10530cd5162fd4e8bed46de3aa4c5732230ebef3fd"
+hash-format = "sha256"
+hash = "bb7effc47dbdab12495e7f76994efb8d9a894dbdd03c95a469fa5eee2e9f088e"
 
 [update]
 [update.modrinth]

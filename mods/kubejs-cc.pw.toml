@@ -3,8 +3,8 @@ filename = "kjscc-1.0.1-beta.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "14f730e4a92fe3ad58566ac2ae535100264be226"
+hash-format = "sha256"
+hash = "a081989251e91c200d1ccb0a5132fadbda54d83614e9fb6560a3b3808a5f973c"
 mode = "metadata:curseforge"
 
 [update]
