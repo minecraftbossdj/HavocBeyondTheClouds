@@ -354,6 +354,11 @@ hash = "cf60d886e4e585a9c73ea07d93fa520817015130e5cf281379dd11fb9ee42a62"
 metafile = true
 
 [[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "09e14b0a8d557a60f0b354721620ebd544ceadd01fb047accd5ee818a05fb0c6"
+metafile = true
+
+[[files]]
 file = "mods/jade-vs.pw.toml"
 hash = "f17463089d03720d003f81a88982c3a19fcfbaccaf5d3076dd879b490d61cfbf"
 metafile = true
