@@ -116,6 +116,11 @@ hash = "42d8bbdfd2a42ab930ef09e4a71452b6c4e42aff605eed55937d966c041cdec7"
 metafile = true
 
 [[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "916362f0b7f3ba5829a46165c5d97f1895ee0b150884d00df574bf3395dbf0db"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "9f9ec1de314ae973f53ba5fa828da3ab43bb53171974f56043ae02fc2b2457fa"
 metafile = true
@@ -467,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "2f1fde18b44b782b0a33d21debda83a8657cb80423cd07158820c59a6430b6cc"
+hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]
