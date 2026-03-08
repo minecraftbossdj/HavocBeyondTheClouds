@@ -314,6 +314,11 @@ hash = "53683d777351eb3cbc05c1db81f6bd02975bc485ffd41fc40cc110aa58e0a78d"
 metafile = true
 
 [[files]]
+file = "mods/etched.pw.toml"
+hash = "52c8e16175353ec9f1a343799800195992667577df4c574258e8d0a68c366c40"
+metafile = true
+
+[[files]]
 file = "mods/eureka.pw.toml"
 hash = "52ccbdc46d9ba3a7ce2ef96839666a553e2198d2740817e98cac1140ef3d019a"
 metafile = true
@@ -420,6 +425,11 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "643e2939843c03c538332beab0f57483cc76e615442ec1a236b98fda4a14289a"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "0b71da608af749f52d127e6fc64aee915df87163b9d13f2b86cf7eaa80ab4c8f"
 metafile = true
 
 [[files]]
@@ -595,6 +605,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "f110b2595108d3266a76f9d21ad9f51fcdf871366f2582cbc3e91aeb2a8f35c8"
+metafile = true
+
+[[files]]
+file = "mods/vista_tv.pw.toml"
+hash = "a978767bd60a3f3f4e9f423046b3192def6ae2a3be1ab491e161825b4e76a350"
 metafile = true
 
 [[files]]
