@@ -102,10 +102,6 @@ hash = "0226a674fb36a07083a324a88a187b0db511654520162f4986ea9b3ca3efd92a"
 metafile = true
 
 [[files]]
-file = "mods/clockwork-0.5.4.6.jar"
-hash = "b23ba45297d142cc9a412e730e64d3e67a34fc3c6b14c728020760d5cd349c4b"
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3391364edc8e38f90c692b82dfd09a26c293c24d80b08c307417ac223029352"
 metafile = true
@@ -167,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "8c0890363f422cf38ba702066f2eea241da5a54b61323f7b36afa6e2247fb694"
+metafile = true
+
+[[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "21b5ef873d094c25240b029e20b18fdfb1fa5fcf290decba4a76c3cc76b5ef51"
 metafile = true
 
 [[files]]
